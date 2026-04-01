@@ -4,13 +4,13 @@
 
 An AI-powered chatbot that breaks down barriers to online commerce by providing multilingual support, simplified navigation, and personalized guidance for emerging market users.
 
-## 📸 Screenshot
+## Screenshot
 
 ![Chatbot Interface](./client/screenshots/chatbot.PNG)
 
 _Responsive chatbot overlay with clean UI and real-time AI responses_
 
-## 🌍 Impact & Innovation
+## Impact & Innovation
 
 ### Bridging the Digital Divide
 
@@ -21,13 +21,13 @@ _Responsive chatbot overlay with clean UI and real-time AI responses_
 
 ### Key Differentiators
 
-🚀 **Smart Product Discovery** - Natural language search that understands local context and slang
+**Smart Product Discovery** - Natural language search that understands local context and slang
 
-🛡️ **Trust & Safety** - AI-powered fraud detection and seller verification explanations
+**Trust & Safety** - AI-powered fraud detection and seller verification explanations
 
-💡 **Financial Inclusion** - Payment method guidance and mobile money integration support
+**Financial Inclusion** - Payment method guidance and mobile money integration support
 
-## 🎯 **Personalized Recommendations** - AI learns user preferences to surface relevant local products
+## **Personalized Recommendations** - AI learns user preferences to surface relevant local products
 
 **Problem**: 60% of African consumers abandon e-commerce sites due to complex interfaces and language barriers
 
@@ -35,7 +35,7 @@ _Responsive chatbot overlay with clean UI and real-time AI responses_
 
 **Market**: 400M+ underserved digital commerce users across emerging markets
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -79,13 +79,13 @@ cd client && npm run dev
 
 Visit http://localhost:5173
 
-## 🔧 Usage
+## Usage
 
 1. Click the chat icon to open
 2. Type your message and press Enter
 3. Wait for AI response
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 **"[object Object]" error:** Check server logs, ensure API key is correct
 
@@ -99,7 +99,7 @@ Visit http://localhost:5173
 - No spaces in .env file
 - Restart server after changes
 
-## 📁 Structure
+## Structure
 
 ```
 ├── client/src/
@@ -115,7 +115,7 @@ Visit http://localhost:5173
     └── server.js
 ```
 
-## 🛡️ Security
+## Security
 
 - Keep API key in backend .env only
 - Never expose API key in frontend
